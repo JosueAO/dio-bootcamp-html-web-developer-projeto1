@@ -11,6 +11,6 @@ Bem, como se trata de um clone, somente com HTML e CSS, fiz duas pequenas mudan�
 
 ### A ideia acima, é mostrar que podemos informar valores para para todos os cantos utilizando "/"
 
-# OBS: Também foi acrescentado um dos favicom do Instagram na guia/aba do gavegador 
+# OBS: Também foi acrescentado um dos favicom do Instagram na guia/aba do Navegador 
 
 ## 🚀 Let's code! 🚀
